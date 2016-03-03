@@ -17,5 +17,13 @@
   "license": "MIT",
   "dependencies": {
     "normalize.css": "^3.0.3"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-less": "^3.0.5",
+    "mithril": "^0.2.3",
+    "vinyl-source-stream": "^1.1.0"
   }
 }
