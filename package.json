@@ -14,5 +14,8 @@
     "change-this"
   ],
   "author": "change-this",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^3.0.3"
+  }
 }
