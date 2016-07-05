@@ -23,7 +23,7 @@
     "gulp": "^3.9.1",
     "gulp-jade": "^1.1.0",
     "gulp-less": "^3.0.5",
-    "mithril": "^0.2.3",
+    "mithril": "^0.2.5",
     "sizzle": "^2.3.0",
     "vinyl-source-stream": "^1.1.0"
   }
